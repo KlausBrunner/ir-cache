@@ -4,4 +4,7 @@ Schematics and source code for a device that waits for a trigger signal and send
 
 The whole setup is intented to be used for geocaching. It can be built using any low-cost Arduino (I used a LilyPad) and put into a clear, waterproof box. With standard AA cells, battery lifetime should be several months.
 
+![Built solution](built-with-lilypad.jpg?raw=true "Built solution (without the additional LED)")
+
 Schematics are in CadSoft EAGLE .sch format.
+
